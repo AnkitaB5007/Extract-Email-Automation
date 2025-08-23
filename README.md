@@ -10,7 +10,7 @@ This repository contains a Python script that automates the extraction of emails
 - Python 3.x
 Add a cred.yaml file in the same directory with the following content:
 ```yaml
-email: your_email@gmail.com
+user: your_email@gmail.com
 password: your_password
 ```
 ## Usage
